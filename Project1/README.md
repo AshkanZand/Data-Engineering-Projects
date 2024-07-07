@@ -9,7 +9,7 @@ Extract the required data from the different file types.
 Transform data to the required format.
 Save the transformed data in a ready-to-load format, which can be loaded into an RDBMS.
 
-##Task:
+## Task:
 * Download the zip file containing the required data in multiple formats.
 ```ruby
 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip" -o source.zip
