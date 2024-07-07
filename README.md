@@ -1,9 +1,8 @@
 # Data-Engineering-Projects
 This repository contains projects related to data engineering.
 
-## Project 1 (ETL operations)
-In this project, you practice the implementation of:
-
+## Project 1 and Project 2 are for practicing the Extract, Transform and Load (ETL) operations.
+In these projects, you practice the implementation of:
 * Extraction of data from CSV, JSON, and XML file formats.
 * Transformation of data as per requirement.
 * Loading the transformed data to a CSV file.
