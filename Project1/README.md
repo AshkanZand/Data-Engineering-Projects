@@ -14,6 +14,10 @@ Save the transformed data in a ready-to-load format, which can be loaded into an
 ```ruby
 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/source.zip" -o source.zip
 ```
+* Unzip the downloaded file.
+```ruby
+Expand-Archive .\source.zip
+```
 
 * The data available has three headers:'name','height','weight'. Implement the extraction process for the CSV, JSON, and XML files.
 
