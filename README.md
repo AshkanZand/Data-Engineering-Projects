@@ -9,7 +9,7 @@ This repository contains projects related to "Data Engineering".
 * Loading the transformed data to a CSV file.
 * Logging the progress of the said operations.
 
-## Project 3 is designed to practice Web scraping and Extracting Data using APIs. (Based on the IBM Data Engineering Professional Certificate)
+## Project 3 and Project 4 are designed to practice Web scraping and Extracting Data using APIs. (Based on the IBM Data Engineering Professional Certificate)
 
 ### Objectives
 * Use the requests and BeautifulSoup libraries to extract the contents of a web page.
