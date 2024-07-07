@@ -1,7 +1,7 @@
 # Data-Engineering-Projects
 This repository contains projects related to data engineering.
 
-## Project 1
+## Project 1 (ETL operations)
 In this project, you practice the implementation of:
 
 * Extraction of data from CSV, JSON, and XML file formats.
