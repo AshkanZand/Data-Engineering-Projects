@@ -15,3 +15,8 @@ This repository contains projects related to "Data Engineering".
 * Use the requests and BeautifulSoup libraries to extract the contents of a web page.
 * Analyze the HTML code of a webpage to find the relevant information.
 * Extract the relevant information and save it in the required form.
+
+## Project 5  are designed to practice Accessing Databases using Python Script.
+* Create a database using Python.
+* Load the data from a CSV file as a table to the database.
+* Run basic "queries" on the database to access the information.
