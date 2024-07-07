@@ -1,32 +1,16 @@
 # Introduction
-Extract, Transform and Load (ETL) operations are of extreme importance in the role of a Data engineer. A data engineer extracts data from multiple sources and different file formats, transforms the extracted data to predefined settings and then loads the data to a database for further processing. In this lab, you will get hands-on practice of performing these operations.
+Web scraping is used for extraction of relevant data from web pages. If you require some data from a web page in a public domain, web scraping makes the process of data extraction quite convenient. The use of web scraping, however, requires some basic knowledge of the structure of HTML pages. In this project, you will learn the process of analyzing the HTML code of a web page and how to extract the required information from it using web scraping in Python.
 
 # Objectives
-After completing this project, you will be able to:
-
-Read CSV, JSON, and XML file types.
-Extract the required data from the different file types.
-Transform data to the required format.
-Save the transformed data in a ready-to-load format, which can be loaded into an RDBMS.
-
-## Task:
-* Download and unzip the data available in the link shared above.
+By the end of this project, you will be able to:
+* Use the requests and BeautifulSoup libraries to extract the contents of a web page.
+* Analyze the HTML code of a webpage to find the relevant information.
+* Extract the relevant information and save it in the required form.
+## Scenario:
+Consider that you have been hired by a Multiplex management organization to extract the information of the top 50 movies with the best average rating from the web link shared below.
 ```ruby
-wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/datasource.zip" -o datasource.zip
+https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films
 ```
 
-* Unzip the downloaded file.
-```ruby
-Expand-Archive .\datasource.zip
-```
 
-* The data available has four headers: 'car_model', 'year_of_manufacture', 'price', 'fuel'. Implement the extraction process for the CSV, JSON, and XML files.
-
-* Transform the values under the 'price' header such that they are rounded to 2 decimal places.
-
-* Implement the loading function for the transformed data to a target file, transformed_data.csv.
-
-* Implement the logging function for the entire process and save it in log_file.txt.
-
-* Test the implemented functions and log the events as done in the lab.
 
