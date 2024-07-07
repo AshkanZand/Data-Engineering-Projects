@@ -19,6 +19,6 @@ This repository contains projects related to "Data Engineering".
 ## Project5 and Project6 are designed to practice Accessing Databases using Python Script. (Based on the IBM Data Engineering Professional Certificate)
 
 ### Objectives
-* Create a database using Python.
-* Load the data from a CSV file as a table to the database.
+* Create a database using SQLite3 in Python.
+* Create and load a table using data from a CSV file using Pandas.
 * Run basic "queries" on the database to access the information.
