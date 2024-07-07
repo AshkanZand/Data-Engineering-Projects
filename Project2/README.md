@@ -15,6 +15,11 @@ Save the transformed data in a ready-to-load format, which can be loaded into an
 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Lab%20-%20Extract%20Transform%20Load/data/datasource.zip" -o datasource.zip
 ```
 
+* Unzip the downloaded file.
+```ruby
+Expand-Archive .\datasource.zip
+```
+
 * The data available has four headers: 'car_model', 'year_of_manufacture', 'price', 'fuel'. Implement the extraction process for the CSV, JSON, and XML files.
 
 * Transform the values under the 'price' header such that they are rounded to 2 decimal places.
