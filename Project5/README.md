@@ -1,7 +1,7 @@
 # Introduction
 Using databases is an important and useful method of sharing information. To preserve repeated storage of the same files containing the required data, it is a good practice to save the said data on a database on a server and access the required subset of information using database management systems.
 
-In this lab, you'll learn how to create a database, load data from a CSV file as a table, and then run queries on the data using Python.
+In this project, you'll learn how to create a database, load data from a CSV file as a table, and then run queries on the data using Python.
 
 # Objectives
 * Create a database using Python
