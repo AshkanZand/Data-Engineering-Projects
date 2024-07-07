@@ -8,7 +8,7 @@ By the end of this project, you will be able to:
 * Extract the relevant information and save it in the required form.
 ## Scenario:
 Consider that you have been hired by a Multiplex management organization to extract the information of the top 50 movies with the best average rating from the web link shared below.
-```ruby
+```html
 https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films
 ```
 
