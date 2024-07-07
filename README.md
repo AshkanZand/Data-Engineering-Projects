@@ -8,5 +8,5 @@ wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeve
 
 ## Unzip the downloaded file.
 ```ruby
-unzip source.zip
+Expand-Archive source.zip
 ```
