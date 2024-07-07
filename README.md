@@ -2,7 +2,7 @@
 This repository contains projects related to data engineering.
 
 ## Project 1
-In this lab, you practiced the implementation of:
+In this project, you practice the implementation of:
 
 * Extraction of data from CSV, JSON, and XML file formats.
 * Transformation of data as per requirement.
