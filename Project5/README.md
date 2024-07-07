@@ -11,30 +11,32 @@ In this lab, you'll learn how to create a database, load data from a CSV file as
 # Scenario
 Consider a dataset of employee records that is available with an HR team in a CSV file. As a Data Engineer, you are required to create the database called STAFF and load the contents of the CSV file as a table called INSTRUCTORS. The headers of the available data are :
 <table>
-<thead>
-<tr>
-<th>Header</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>ID</td>
-<td>Employee ID</td>
-</tr>
-<tr>
-<td>FNAME</td>
-<td>First Name</td>
-</tr>
-<tr>
-<td>LNAME</td>
-<td>Last Name</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>City of residence</td>
-</tr>
-<tr>
-<td>CCODE</td>
-<td>Country code (2 letters)</td>
-</tr>
-</tbody></table>
+  <thead>
+    <tr>
+    <th>Header</th>
+    <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>Employee ID</td>
+    </tr>
+    <tr>
+      <td>FNAME</td>
+      <td>First Name</td>
+    </tr>
+    <tr>
+      <td>LNAME</td>
+      <td>Last Name</td>
+    </tr>
+    <tr>
+      <td>CITY</td>
+      <td>City of residence</td>
+    </tr>
+    <tr>
+      <td>CCODE</td>
+      <td>Country code (2 letters)</td>
+    </tr>
+  </tbody>
+</table>
