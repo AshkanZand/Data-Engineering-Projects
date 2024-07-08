@@ -42,6 +42,6 @@ Consider a dataset of employee records that is available with an HR team in a CS
 </table>
 
 * Download the csv file available in the link shared above.
-```ruby
+```python
 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/INSTRUCTOR.csv" -o INSTRUCTOR.csv
 ```
