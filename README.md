@@ -22,3 +22,12 @@ This repository contains projects related to "Data Engineering".
 * Create a database using SQLite3 in Python.
 * Create and load a table using data from a CSV file using Pandas.
 * Run basic "queries" on the database to access the information.
+
+## Project7 is designed to practicecomplex Extract, Transform, and Loading operations on real world data. (Based on the IBM Data Engineering Professional Certificate)
+
+### Objectives
+* Extract relevant information from websites using Webscraping and requests API.
+* Transform the data to a required format.
+* Load the processed data to a local file or as a database table.
+* Query the database table using Python.
+* Create detailed logs of all operations conducted.
