@@ -32,7 +32,7 @@ This repository contains projects related to "Data Engineering".
 * Query the database table using Python.
 * Create detailed logs of all operations conducted.
 
-## Project8 Acquiring and processing information on world's largest banks
+## Project8 Acquiring and processing information on world's largest banks. (Based on the IBM Data Engineering Professional Certificate)
 
 ### Objectives
 * Use Webscraping techniques to extract information from any website as per requirement.
