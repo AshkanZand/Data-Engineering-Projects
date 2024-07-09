@@ -44,7 +44,7 @@ Particulars of the code to be made have been shared below.
 </tr>
 <tr>
 <td>Output CSV Path</td>
-<td><code>./Largest_banks_data.csv</code></td>
+<td><code>Largest_banks_data.csv</code></td>
 </tr>
 <tr>
 <td>Database name</td>
