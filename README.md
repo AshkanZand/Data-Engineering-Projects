@@ -31,3 +31,12 @@ This repository contains projects related to "Data Engineering".
 * Load the processed data to a local file or as a database table.
 * Query the database table using Python.
 * Create detailed logs of all operations conducted.
+
+## Project8 Acquiring and processing information on world's largest banks
+
+### Objectives
+* Use Webscraping techniques to extract information from any website as per requirement.
+* Use Pandas data frames and dictionaries to transform data as per requirement.
+* Load the processed information to CSV files and as Database tables
+* Query the database tables using SQLite3 and pandas libraries
+* Log the progress of the code properly
