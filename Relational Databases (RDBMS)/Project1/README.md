@@ -16,3 +16,14 @@ In your scenario, you will be working with data from the following sources:
 * Sales data output as a CSV file from the POS system in the sales outlets
 * Customer data output as a CSV file from a custom customer relationship management system
 * Product information maintained in a spreadsheet exported from your supplier's database
+
+## Objectives
+* Identify entities
+* Identity attributes
+* Create an entity relationship diagram (ERD) using the pgAdmin ERD tool
+* Normalize tables
+* Define keys and relationships
+* Create database objects by generating and running the SQL script from the ERD tool
+* Create a view and export the data
+* Create a materialized view and export the data
+* Import data into a MySQL database using phpMyAdmin GUI tool
