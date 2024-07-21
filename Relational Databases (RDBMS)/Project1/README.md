@@ -1,5 +1,5 @@
 # Project Overview
-In the project you will design a database using an ERD tool and implement the database schema using PostgreSQL, MySQL and (optionally) Db2.
+In the project you will design a database using an ERD tool and implement the database schema using PostgreSQL, MySQL and (optionally) Db2. (This project is based on the IBM Data Engineering Professional Certificate)
 
 ## Scenario
 In this scenario, you have recently been hired as a Data Engineer by a New York based coffee shop chain that is looking to expand nationally by opening a number of franchise locations. As part of their expansion process, they want to streamline operations and revamp their data infrastructure.
