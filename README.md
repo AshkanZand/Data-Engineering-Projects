@@ -40,3 +40,9 @@ This repository contains projects related to "Data Engineering".
 * Load the processed information to CSV files and as Database tables
 * Query the database tables using SQLite3 and pandas libraries
 * Log the progress of the code properly
+
+## Project9 Linux Commands and Shell Scripting. (Based on the IBM Data Engineering Professional Certificate)
+
+### Objectives
+* Creating a script backup.sh which automatically backs up files that have been updated within the past 24 hours.
+
